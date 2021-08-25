@@ -10,6 +10,8 @@
     "*.js"
   ],
   "keywords":["todo","jiantong","cli","file","privacy"],
+  "repositories":"https://github.com/jiantongCode/todo",
+  "author":"jiantong",
   "scripts":{
     "test": "jest"
   },
