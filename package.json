@@ -1,0 +1,23 @@
+{
+  "name": "jt-todo",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "t": "cli.js"
+  },
+  "files": [
+    "*.js"
+  ],
+  "keywords":["todo","jiantong","cli","file","privacy"],
+  "scripts":{
+    "test": "jest"
+  },
+  "dependencies": {
+    "commander": "^3.0.2",
+    "inquirer": "^7.0.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
